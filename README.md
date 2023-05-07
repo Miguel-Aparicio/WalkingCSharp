@@ -1,18 +1,10 @@
-# MiddlePython - EOI Desarrollo Cloud
+# WalkingCSharp - EOI Desarrollo Cloud
 
 
 
 ## ¿Qué contiene este repositorio?
 
-Este repositorio contiene 3 directorios con ejercicios puramente didácticos en Python, y son:  Ejercicios  de JSON, conjuntos y ejercicios de clase.
-
-
-
-## ¿Quienes colaboran en este repositorio?
-
-- Monset Cabrera
-- José Javier 
-- Miguel Aparicio
+Este repositorio contiene diferentes ejercicios de carácter didáctico de Microsoft Learn en el lenguaje C#.
 
 
 
@@ -20,30 +12,12 @@ Este repositorio contiene 3 directorios con ejercicios puramente didácticos en 
 
 1. **Clonar el repositorio**
 
-```https://github.com/Mon-MCS/MiddlePython.git```
+```https://github.com/Miguel-Aparicio/WalkingCSharp.git```
 
-2. **Crear y activar el entorno virtual:**
+2. **Elección de rama**
 
-   - Versión Python 3.11.2
+Seleccionar la rama deseada para ver los diferentes progresos de las unidades y ejercicios.
 
+3. **Ejecución del programa**
 
-   - Windows
-
-     - `python -m venv env`
-     - `env\scripts\activate.bat` (Windows command line)
-     - `env\scripts\activate.ps1` (Windows PowerShell)
-
-
-   - MacOs / Linux
-
-     - `python3 -m venv env`
-
-     - `source env/bin/activate`
-
-3. **Instalar las librerías**
-
-- `pip install -r requirements.txt`
-
-4. **Ejecución del programa**
-
-Ejecutar el programa ```Menu.py```
+Ejecutar el programa deseado.
