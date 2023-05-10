@@ -4,7 +4,7 @@
 
 ## ¿Qué contiene este repositorio?
 
-Este repositorio contiene diferentes ejercicios de carácter didáctico de Microsoft Learn en el lenguaje C#.
+Este repositorio contiene el segundo proyecto guiado de la unidad 1 de Microsoft Learn en el lenguaje C#.
 
 
 
